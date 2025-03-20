@@ -1,3 +1,6 @@
 [submodule "c00"]
 	path = c00
 	url = git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-ad44a6b4-705a-41fd-8fb5-4ac6508a1204-6451266-muda-sil
+[submodule "c02"]
+	path = c02
+	url = git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-5c531887-c198-434a-a4b3-0d6c651498c7-6456736-muda-sil
